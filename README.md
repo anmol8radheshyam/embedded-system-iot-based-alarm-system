@@ -43,5 +43,6 @@ This project is developed using Arduino UNO and PIR Motion Sensor. The system de
 
 ## Author
 
-Anmol Radheshyam
+Anmol Kumar
+
 
